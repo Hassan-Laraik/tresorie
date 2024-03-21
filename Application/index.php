@@ -1,3 +1,3 @@
 <?php
- include "./serveur/connection/connection.php"
+ include "./serveur/connection/connection.php";
 ?>
