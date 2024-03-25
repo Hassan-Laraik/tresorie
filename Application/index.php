@@ -12,8 +12,8 @@
 <body>
     <h2>Menu Agent</h2>
      <button><a href="./client/agent/AddAgent.html">Ajouter Agent</a></button>
-     <button><a href="./client/agent/ModifierAgent.html">Modifier Agent</a></button>
+     <button><a href="./serveur/agents/RechercheAgentModifier.php">Modifier Agent</a></button>
      <button><a href="./client/agent/SuprimerAgent.html">Spprimer Agent</a></button>
-     <button><a href="./client/agent/RechercherAgent.html">Rechercher Agent</a></button> 
+     <button><a href="./serveur/agents/rechercherAgent.php">Rechercher Agent</a></button> 
 </body>
 </html>
